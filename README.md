@@ -25,4 +25,4 @@ Files and Folders
 The project consists of the following files and folders:
 
 nobel.csv: The dataset containing information on Nobel Prize winners from 1901 to 2023.
-nobel.ipynb: The Jupyter notebook containing the code and analysis for the project.
+nobel_laureates.ipynb: The Jupyter notebook containing the code and analysis for the project.
